@@ -1,0 +1,19 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --icon: #ffffff;
+  --font: #ffffff;
+  --font-muted: rgba(255, 255, 255, 0.5);
+  --primary: #017a90;
+  --primary-light: rgba(1, 122, 144, 0.2);
+  --accent: #b04b6b;
+
+  /* Fonts */
+  --h-1: 400 80px/80px "Roboto-Regular", sans-serif;
+  --h-2: 400 40px/140% "Roboto-Regular", sans-serif;
+  --h-3: 400 30px/140% "Roboto-Regular", sans-serif;
+  --h-4: 400 24px/140% "Roboto-Regular", sans-serif;
+  --text: 400 18px/140% "Roboto-Regular", sans-serif;
+
+  /* Effects */
+}
